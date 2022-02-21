@@ -1,0 +1,12 @@
+01,Swimming
+02,Badminton
+03,Football
+04,Archery
+05,Gymnastics
+06,Volleyball
+07,Basketball
+08,Cricket
+09,Tennis
+10,Table Tennis
+11,Squash
+12,Rugby
