@@ -1,4 +1,4 @@
-# Python-Programming Assignment
+# 2020 Python-Programming Assignment
 Real Champions Sport Academy System (RCSAS)
 ------------------------------------
 REAL CHAMPIONS SPORT ACADEMY is one of the fast-growing Sport Centre in Malaysia that employed tens of coach to conduct sport classes on Swimming, Badminton, Football, Archery, Gymnastics, Volleyball, Basketball, Cricket, Tennis and Table Tennis in their various Sport Centres. All the coaches are paid by hourly rate ranged from RM100.00 – RM500.00, depends on the sport they give training. Coaches can be rated by the students on their training performance with a scale rating from 1-5, where 1 is “very poor performance” and 5 is “excellent performance”. The Sport Centre needs a system to store information about their coaches (identified by Coach ID, Name, Date Joined, Date Terminated, Hourly Rate, Phone, Address, Sport Centre Code, Sport Center Name, Sport Code, Sport Name, Rating [a single digit integer number ranging from 1 to 5]). To maintain quality and consistency, one coach is allowed to give training on the sport in their specialized sport only.
